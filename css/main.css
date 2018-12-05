@@ -1,0 +1,9 @@
+@import "../css/normalize.css";
+
+.td-header {
+    margin-left: 64px;
+}
+
+.td-wrapper {
+    margin-left: 64px;
+}
